@@ -392,6 +392,7 @@ shiny::runApp("Shiny_Explainable_AI_Code.R")
 ## 👩‍💻 Author
 
 **Bhaavana**  
+**Pragnya**  
 Integrated M.Tech — Business Analytics  
 VIT Chennai
 
