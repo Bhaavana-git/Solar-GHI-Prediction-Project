@@ -1,4 +1,4 @@
-DateTime,DHI,DNI,Temperature,Pressure,Relative.Humidity,Wind.Speed,GHI,Hour,Month,DayOfYear,Predicted_GHI,Predicted_Power_W,Predicted_Energy_kWh,CO2_Saved_kg,Cumulative_CO2_Saved_kg
+﻿DateTime,DHI,DNI,Temperature,Pressure,Relative.Humidity,Wind.Speed,GHI,Hour,Month,DayOfYear,Predicted_GHI,Predicted_Power_W,Predicted_Energy_kWh,CO2_Saved_kg,Cumulative_CO2_Saved_kg
 01-01-2011,0,0,25,1010,92.37,1.1,0,0,1,1,0.064953163,70.14941633,0.070149416,0.057522521,0.057522521
 01-01-2011 01:00,0,0,25,1010,92.66,1.1,0,1,1,1,0.064953163,70.14941633,0.070149416,0.057522521,0.115045043
 01-01-2011 02:00,0,0,25,1010,92.85,1.1,0,2,1,1,0.064953163,70.14941633,0.070149416,0.057522521,0.172567564
