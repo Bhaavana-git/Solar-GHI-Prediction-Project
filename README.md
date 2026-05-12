@@ -15,6 +15,40 @@ Accurate prediction of solar power generation is difficult because solar panel o
 This project develops an **explainable Solar Global Horizontal Irradiance (GHI) prediction system** that improves forecasting reliability while highlighting the reduction of CO₂ emissions through renewable energy usage.
 
 ---
+## 🌐 Dataset Source
+
+The dataset used in this project was obtained from the **NSRDB (National Solar Radiation Database)** provided by the **National Laboratory of the Rockies (NLR)**.
+
+Official Website:  
+https://nsrdb.nlr.gov/data-viewer
+
+Location Selected:
+- Chennai, India
+
+The dataset contains important solar irradiance and meteorological parameters including:
+
+- Global Horizontal Irradiance (GHI)
+- Diffuse Horizontal Irradiance (DHI)
+- Direct Normal Irradiance (DNI)
+- Temperature
+- Pressure
+- Relative Humidity
+- Wind Speed
+- Date and Time information
+
+The collected data was cleaned, transformed, and preprocessed before performing machine learning analysis, solar power prediction, CO₂ emission analysis, and explainable AI visualization.
+
+## Complete Dataset Access
+
+Due to GitHub file size limitations, the complete project datasets are hosted on Google Drive.
+
+Datasets Included:
+- Full Dataset
+- Cleaned Dataset
+- Prediction Output Dataset
+
+Google Drive Link:
+https://drive.google.com/drive/folders/1bKpv_Gh5xo8UUhE2NQ40s2jO0hIcpbh1?usp=sharing
 
 ## 🎯 Project Objectives
 
